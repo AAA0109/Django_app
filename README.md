@@ -1,0 +1,1 @@
+Django webapp that scrapes all the required product information.
